@@ -4,12 +4,12 @@ A simple command-line todo list application built in Go using the Cobra CLI fram
 
 ## Features
 
-- ✅ Add new tasks
-- 📋 List all tasks with details
-- ✅ Mark tasks as complete
-- 🗑️ Delete tasks
-- ✏️ Update task names
-- 💾 Persistent storage using CSV format
+- Add new tasks
+- List all tasks with details
+- Mark tasks as complete
+- Delete tasks
+- Update task names
+- Persistent storage using CSV format
 
 ## Installation
 
@@ -110,14 +110,6 @@ Tasks are stored in a CSV file (`tasks.csv`) with the following format:
 - [ ] Add unit tests
 - [ ] Add database support (SQLite/PostgreSQL)
 - [ ] Add web interface
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
 ## License
 
